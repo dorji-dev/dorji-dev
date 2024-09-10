@@ -7,5 +7,5 @@
 </p>
 
 <p align="center">
-  👉 Previous account -> <a href="https://github.com/dorji-tshering">old GitHub account</a>
+  👉 Previous account -> <a href="https://github.com/dorji-tshering">dorji-tshering</a>
 </p>
