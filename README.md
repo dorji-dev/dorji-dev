@@ -9,3 +9,7 @@
 <p align="center">
   👉 Previous account -> <a href="https://github.com/dorji-tshering">dorji-tshering</a>
 </p>
+
+<p align="center">
+  Mini music player: <a href="https://next-app-gamma-lovat.vercel.app/features/music-streaming">dorji-tshering</a>
+</p>
