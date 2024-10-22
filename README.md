@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  Mini music player: <a href="https://next-app-gamma-lovat.vercel.app/features/music-streaming">dorji-tshering</a>
+  Mini music player: <a href="https://next-app-gamma-lovat.vercel.app/features/music-streaming">Bhutanese Music</a>
 </p>
