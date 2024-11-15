@@ -33,10 +33,10 @@
 
 ## 🏆 Popular Repositories
 
-<a href="https://github.com/dorji-dev/repo1">
+<a href="https://github.com/dorji-dev/next_app">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dorji-dev&repo=next_app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="next_app"/>
 </a>
-<a href="https://github.com/dorji-dev/repo2">
+<a href="https://github.com/dorji-dev/formik-vs-react-hook-form">
   <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dorji-dev&repo=formik-vs-react-hook-form&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="formik-vs-react-hook-form"/>
 </a>
 
