@@ -1,45 +1,36 @@
-```ascii
-+-----------------------------------------------------------------------------+
-|                                                                             |
-|                     < Hello World, Terminal Loading... />                    |
-|                                                                             |
-+-----------------------------------------------------------------------------+
-```
+<div align="center">
+  # Hi, I'm Dorji 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer+%F0%9F%92%BB;React+%26+Next.js+%E2%9A%9B%EF%B8%8F;Building+the+web%2C+one+component+at+time+%F0%9F%8F%97%EF%B8%8F)](https://git.io/typing-svg)
+  I’m a **Frontend Developer** at **[SELISE](https://www.selise.ch/)** 🚀, where I build **fast**, **scalable**, and **user-friendly** web applications using **React**, **Next.js**, and **Angular**. I specialize in solving complex problems and optimizing performance to deliver seamless experiences.
 
-## 🔮 Tech Stack
+  ---
+
+  ### 🛠️ 
+
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+  ---
+
+  ### 🌟 
 
 <table>
   <tr>
-    <td width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
+    <td width="50%">
+      <a href="https://github.com/dorji-dev/next_app">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dorji-dev&repo=next_app&theme=default&bg_color=FFFFFF&title_color=24292E&hide_border=true&icon_color=0366D6&show_icons=true" alt="next_app"/>
+      </a>
     </td>
-    <td width="96">
-      <img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" alt="icon" width="65" height="65" />
-      <br>Next.js
-    </td>
-    <td width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
+    <td width="50%">
+      <a href="https://github.com/dorji-dev/formik-vs-react-hook-form">
+        <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dorji-dev&repo=formik-vs-react-hook-form&theme=default&bg_color=FFFFFF&title_color=24292E&hide_border=true&icon_color=0366D6&show_icons=true" alt="formik-vs-react-hook-form"/>
+      </a>
     </td>
   </tr>
 </table>
-
-## 🏆 Popular Repositories
-
-<a href="https://github.com/dorji-dev/next_app">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dorji-dev&repo=next_app&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="next_app"/>
-</a>
-<a href="https://github.com/dorji-dev/formik-vs-react-hook-form">
-  <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dorji-dev&repo=formik-vs-react-hook-form&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="formik-vs-react-hook-form"/>
-</a>
-
-```ascii
-📍 Fun fact: This README is powered by ☕️ and 💻
-```
+</div>
