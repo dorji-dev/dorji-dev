@@ -1,6 +1,6 @@
 # Hi, I'm Dorji 👋
 
-  I’m a **Frontend Developer** at **[SELISE](https://www.selise.ch/)** 🚀, where I build **fast**, **scalable**, and **user-friendly** web applications using **React**, **Next.js**, and **Angular**.
+  I’m a **Frontend Developer** at **[SELISE](https://www.selise.ch/)** 🚀, where I build **fast**, **scalable**, and **user-friendly** web applications using **React**, **Next.js**, and **Angular 19 Signals**.
 
   ### 🌟 
 
