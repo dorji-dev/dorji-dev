@@ -1,6 +1,6 @@
 # Hi, I'm Dorji 👋
 
-  I’m a **Frontend Developer** at **[JAGGLE.AI](https://www.jaggle.ai)** 🚀, where I build **fast**, **scalable**, and **user-friendly** web applications using **React** and **Next.js**. You can find more about me here [dorji.dev](https://dorji.dev).
+  I’m a **Frontend Developer** at **[JAGGLE.AI](https://www.jaggle.ai)** 🚀, where I build **fast**, **scalable**, and **user-friendly** web applications using **React** and **Next.js**. You can find more about me here [dorji.dev](https://dorji.dev). Old Account: [dorji-tshering](https://github.com/dorji-tshering)
 
   ### 🌟 
 
